@@ -1,6 +1,7 @@
 # Blog settings
 permalink: /blog/:title
 
+remote_theme: minimal-mistakes
 
 # My variables
 name: Danila Maroz
